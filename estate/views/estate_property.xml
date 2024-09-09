@@ -1,0 +1,16 @@
+<tree>
+    <field name="name"/>
+    <field name="description"/>
+    <field name="postcode"/>
+    <field name="date_availability"/>
+    <field name="expected_price"/>
+    <field name="selling_price"/>
+    <field name="bedrooms"/>
+    <field name="living_area"/>
+    <field name="facades"/>
+    <field name="garage"/>
+    <field name="garden"/>
+    <field name="garden_area"/>
+    <field name="garden_orientation"/>
+        
+</tree>
